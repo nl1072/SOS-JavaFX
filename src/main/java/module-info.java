@@ -5,6 +5,6 @@ module org.example.sos {
     requires org.controlsfx.controls;
     requires com.almasb.fxgl.all;
 
-    opens org.example.sos to javafx.fxml;
-    exports org.example.sos;
+    opens org.game.sos to javafx.fxml;
+    exports org.game.sos;
 }

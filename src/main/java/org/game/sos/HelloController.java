@@ -1,4 +1,4 @@
-package org.example.sos;
+package org.game.sos;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
